@@ -2,4 +2,5 @@
 I would like to eat nagashi-somen
 
 # Getting started
-Cut a bamboo
++ Cut a bamboo
++ Buy somen
